@@ -1,0 +1,90 @@
+body{
+    margin: 0;   
+    font-family: tahoma;
+}
+
+h1,h2{
+    font-size: 20px;
+    color: #de1919;
+    margin: 0;
+}
+
+p{
+    color: #333;
+    font-size: 15px;
+}
+
+
+#total{
+    width: 960px; 
+    height: auto; 
+    margin: auto; 
+}
+
+#topo{
+    width: 960px;
+    height: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#logo{
+    width: 267px;
+    height: 90px;
+    float: left;
+}
+
+#menu{
+    width: auto;
+    height: auto;
+    float: right;
+    line-height: 90px;
+}
+
+#menu a{ 
+    color: #de1919;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#menu a:hover{
+    text-decoration: underline;
+}
+
+#banner{
+    width: 960px;
+    height: 466px;
+}
+
+#col4{
+    margin-right: 0;   
+}
+
+.coluna{
+    width: 210px;
+    height: auto;
+    float: left;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.coluna a{
+    font-size: 15px;
+    color: #de1919;
+}
+
+
+#rodape{
+    width: 960px;
+    height: auto;
+    clear: both;
+    text-align: center;
+    font-size: 15px;
+    color: #666;
+}
+
+
+
+
+
